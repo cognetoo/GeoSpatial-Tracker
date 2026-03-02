@@ -1,0 +1,19 @@
+# IDE / System
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Backend
+backend/.venv/
+backend/.env
+backend/temp_frame_*.jpg
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Project
+.env

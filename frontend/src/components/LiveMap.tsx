@@ -3,6 +3,7 @@ import 'maplibre-gl/dist/maplibre-gl.css'
 import { useEffect, useRef, useState } from 'react'
 import { GeoJSONFeatureCollection } from '../types'
 
+// @ts-ignore
 const MAPTILER_KEY = import.meta.env.VITE_MAPTILER_KEY ?? ''
 
 const STYLES = {
