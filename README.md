@@ -16,6 +16,14 @@ A high-performance situational awareness dashboard that merges **Real-Time Aircr
 
 ---
 
+
+## Demo screenshots
+![Tracker dashboard](Dashboard.png)
+
+![Area view](NewYork.png)
+
+![Satellite mode](Satellite.png)
+
 ## 🏗️ System Architecture
 
 
